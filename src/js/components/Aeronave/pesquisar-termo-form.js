@@ -9,7 +9,7 @@ export default () => {
                 </div>
             </form>
             <div>
-                <input type="submit" form="formPesquisarAeronaveTermo" class="btn btn-primary" value="Pesquisar"><!-- Este input é o submit do form, apesar de estar fora dele. Pode ser colocado em qualquer lugar dentro do DOM -->
+                <input type="submit" form="formPesquisarAeronaveTermo" class="btn btn-primary" onclick="fnPesquisarAeronaveFormAction()" value="Pesquisar"><!-- Este input é o submit do form, apesar de estar fora dele. Pode ser colocado em qualquer lugar dentro do DOM -->
             </div>
         </div>
     `;

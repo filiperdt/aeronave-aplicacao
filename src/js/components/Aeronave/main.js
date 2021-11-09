@@ -59,7 +59,7 @@ const gerarTemplate = (listMarcas, mapQtdePorDecada, qtdeRegistradasUltimaSemana
                     <p>${fnRegistradasUltimaSemana(qtdeRegistradasUltimaSemana)}</p>
                 </div>
             </div>
-            <div id="pesquisa" class="row" style="width: 300px;">
+            <div id="pesquisa" class="row mb-3" style="width: 300px;">
                 ${pesquisarTermoAeronaveForm()}
             </div>
             <div id="divExibirAeronave" class="row">

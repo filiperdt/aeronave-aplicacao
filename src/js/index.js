@@ -252,7 +252,7 @@ const fnPesquisarAeronave = termo => {
         
         divExibirAeronave.innerHTML = '';
         divExibirAeronave.style.display = "inline";
-        divExibirAeronave.innerHTML = list(aeronaves);
+        divExibirAeronave.innerHTML = `<strong>Aeronaves encontradas pelo termo:</strong><br>` + list(aeronaves);
     })
     .catch(e => console.log(`Ocorreu um erro. fnCreateAeronave: ${e}`));
 }
@@ -362,4 +362,5 @@ window.addEventListener("load", () => {
 window.fnReadAeronave = fnReadAeronave;
 window.fnUpdateAeronaveRead = fnUpdateAeronaveRead;
 window.fnDeleteAeronave = fnDeleteAeronave;
+window.fnPesquisarAeronaveFormAction = fnPesquisarAeronaveFormAction;
 window.fnFecharDivDeExibicao = fnFecharDivDeExibicao;
