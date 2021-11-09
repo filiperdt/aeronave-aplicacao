@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+table th, td{
+	text-align: center;
+}
+
+.divConteudoCentralizado{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.divInlineWidth50{
+	display: inline-block;
+	width: 50%;
+}
+
+.campoFormAeronave{
+	margin-bottom: 8px;
+}
+
+.sucesso-mensagem{
+	color: #198754;
+}
+
+.erro-mensagem{
+	color: #dc3545;
+}
