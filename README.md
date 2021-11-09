@@ -10,6 +10,21 @@ O projeto faz parte do meu portfólio pessoal.
 ## Telas
 ![Preview-Screens](https://github.com/filiperdt/aeronave-aplicacao/blob/master/prints_aeronave.jpg)
 
+## Começando
+
+Caso o Node ainda não esteja instalado, instale-o pelo seguinte link:
+>	https://nodejs.org/en/download/
+
+Instale as dependências do projeto:
+```
+  npm install
+```
+
+Execute a aplicação:
+```
+  npm start
+```
+
 ## Funcionalidades
 - Listar todas as Aeronaves.
 
