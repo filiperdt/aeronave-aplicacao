@@ -1,9 +1,9 @@
-# aeronave-aplicacao
+# Cadastro de Aeronaves - Aplicação
 
 ## Sobre este Projeto
-Este é o front-end do [aeronave-api](https://github.com/filiperdt/aeronave-api).
+Este é o front-end do sistema [Cadastro de Aeronaves - API](https://github.com/filiperdt/aeronave-api).
 
-A ideia do projeto é apresentar uma aplicação Single Page Application (SPA) que consome uma API REST.
+O objetivo deste projeto é apresentar uma aplicação Single Page Application (SPA), que consome uma API REST, a qual gerencia cadastro de aeronaves.
 
 O projeto faz parte do meu portfólio pessoal.
 
@@ -11,7 +11,6 @@ O projeto faz parte do meu portfólio pessoal.
 ![Preview-Screens](https://github.com/filiperdt/aeronave-aplicacao/blob/master/prints_aeronave.jpg)
 
 ## Começando
-
 Caso o Node ainda não esteja instalado, instale-o pelo seguinte link:
 >	https://nodejs.org/en/download/
 
@@ -26,26 +25,17 @@ Execute a aplicação:
 ```
 
 ## Funcionalidades
+### Aeronave
 - Listar todas as Aeronaves.
-
 - Adicionar Aeronave.
-
 - Exibir Aeronave.
-
 - Atualizar Aeronave.
-
 - Deletar Aeronave.
-
 - Listar todas as Aeronaves pesquisadas pelo termo.
-
 - Exibir a quantidade de Aeronaves não vendidas.
-
 - Exibir a quantidade de Aeronaves por década.
-
 - Exibir a quantidade de Aeronaves por marca.
-
 - Exibir a quantidade de Aeronaves registradas na última semana.
 
 ## Sobre o desenvolvimento
-
 - Este projeto utiliza a técnica Single Page Application (SPA).
