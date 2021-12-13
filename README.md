@@ -38,4 +38,4 @@ Execute a aplicação:
 - Exibir a quantidade de Aeronaves registradas na última semana.
 
 ## Sobre o desenvolvimento
-- Este projeto utiliza a técnica Single Page Application (SPA).
+- Este projeto é uma aplicação Single Page Application (SPA).
