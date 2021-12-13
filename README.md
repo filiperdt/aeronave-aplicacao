@@ -26,7 +26,7 @@ Execute a aplicação:
 
 ## Funcionalidades
 ### Aeronave
-- Listar todas as Aeronaves.
+- Listar Aeronaves.
 - Adicionar Aeronave.
 - Exibir Aeronave.
 - Atualizar Aeronave.
